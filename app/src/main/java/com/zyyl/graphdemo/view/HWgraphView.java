@@ -618,7 +618,7 @@ public class HWgraphView extends View {
      * 设置宝宝当前年龄
      * @param m
      */
-    public void setAge(int y,int m,int d){
+    public void setAge(int y,int m,int d) {
         Log.d("baby_hw","y="+y+",m="+m+",d="+d);
         this.todayYear=y;
         this.todayMouth=m;
