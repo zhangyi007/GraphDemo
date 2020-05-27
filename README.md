@@ -8,7 +8,7 @@
 
 
 
-![image](http://qn.super1288.com/sample_2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
+![image](http://qn.super1288.com/sample_2.jpg)
 
 ### 功能列表
 
