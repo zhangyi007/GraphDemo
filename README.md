@@ -8,9 +8,9 @@
 
 [效果图2](http://qn.super1288.com/sample_2.jpg)
 
-![image](https://github.com/zhangyi007/GraphDemo/blob/master/sample_1.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
+![image](https://github.com/zhangyi007/GraphDemo/blob/master/sample_1.jpg)
 
-![image](https://github.com/zhangyi007/GraphDemo/blob/master/sample_2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
+![image](https://github.com/zhangyi007/GraphDemo/blob/master/sample_2.jpg)
 
 ### 功能列表
 
