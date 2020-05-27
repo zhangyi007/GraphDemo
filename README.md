@@ -4,9 +4,11 @@
 
 ### 效果图片
 
+[效果图1](http://qn.super1288.com/sample_1.jpg)
+
+[效果图2](http://qn.super1288.com/sample_2.jpg)
+
 ![image](http://qn.super1288.com/sample_1.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
-
-
 
 ![image](http://qn.super1288.com/sample_2.jpg)
 
